@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sourcerer.io/brendonguedes](https://sourcerer.io/brendonguedes)
 
-- 📝 I regulary write articles on [https://blog.geekhunter.com.br/author/brendon-guedes/](https://blog.geekhunter.com.br/author/brendon-guedes/)
+- 💬 Ask me about **React, Next, HTML and CSS**
 
-- 💬 Ask me about **React, HTML and CSS**
-
-- 📫 How to reach me **lordbguedes@gmail.com**
+- 📫 How to reach me **contatoeduardo.dev@gmail.com**
 
 - ⚡ Fun fact **I make coffee and play tennis**
 

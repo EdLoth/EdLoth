@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ramos</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate Front-End Developer from Brasil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edloth" alt="EdLoth" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://sourcerer.io/edloth](https://sourcerer.io/edloth)
 
-- 💬 Ask me about **React, Next, HTML and CSS**
+- 💬 Ask me whatever you want: **React, Next, Bootstrap, HTML and CSS**
 
 - 📫 How to reach me **contatoeduardo.dev@gmail.com**
 
-- ⚡ Fun fact **I make coffee and play tennis**
+- ⚡ Curiosity ** I make the apps and play football and leave myself still singing **
 
 
 # 🛠 Tech Stack

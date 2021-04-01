@@ -29,7 +29,7 @@
 <a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/HTML-73%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/Java-16%20commits-purple.svg" alt=""></a>
 <a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/Gradle-16%20commits-black.svg" alt=""></a>
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/Objective–C-2%20commits-pink.svg" alt=""></a>
+
 
 <p align="center">
 

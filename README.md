@@ -24,12 +24,6 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/JavaScript-358%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/CSS-221%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/HTML-73%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/Java-16%20commits-purple.svg" alt=""></a>
-<a href="https://sourcerer.io/edloth"><img src="https://img.shields.io/badge/Gradle-16%20commits-black.svg" alt=""></a>
-
 
 <p align="center">
 
@@ -37,10 +31,6 @@
 </p>
 
 
-## 😇 My Github Stats:
-
-[![Visits Badge](https://badges.pufler.dev/visits/edloth/edloth?style=for-the-badge)](https://github.com/edloth/edloth)
-![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=edloth&show_icons=true&theme=algolia&line_height=27">

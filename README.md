@@ -25,8 +25,6 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/dev-eduardo-ramos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brendon guedes" height="20" width="20" /></a>
-
 
 
   <img src = "https://github-readme-stats.vercel.app/api?username=edloth&show_icons=true&theme=algolia&line_height=27">

@@ -27,7 +27,7 @@
 
 
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=edloth&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=EdLoth&show_icons=true&theme=algolia&line_height=27">
 
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdLoth&layout=compact)](https://github.com/EdLoth/github-readme-stats)
